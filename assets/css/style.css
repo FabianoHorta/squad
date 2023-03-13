@@ -125,14 +125,14 @@ img {
 }
 
 .btn-brand {
-  background-color: var(--color-brand);
-  border-color: var(--color-brand);
+  background-color: rgba(255, 255, 255, 0.887);
+  border-color:  white;
   color: var(--color-base);
 }
 
 .btn-brand:hover,
 .btn-brand:focus {
-  background-color: var(--color-brand2);
+  background-color: rgba(255, 255, 255, 0.758);
   color: var(--color-base);
   border-color: var(--color-brand2);
 }
@@ -223,6 +223,7 @@ img {
 }
 #color_title{
     color: white;
+    margin-top: -25vh;
 }
 #socialmedia{
     height: 20px;
